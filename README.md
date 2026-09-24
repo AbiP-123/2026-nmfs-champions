@@ -17,13 +17,13 @@ Cohort) and to browse the open lesson materials, please see the
 
 Each Cohort will meet via Zoom five times over two months for 1.5 hours
 each. Agendas are accessible to Cohort participants in our Cohort Google
-Drive Folders (links to come); they are an archive of our live google-doc’ing.
+Drive Folders; they are an archive of our live google-doc’ing. [Template versions of our agendas](https://drive.google.com/drive/u/1/folders/1Iq8tj81TSfr-RstphVTZWoz783xpJMOb).
 
-**Cohort A**: Sep 22, Oct 6, 20, Nov 3, 17. Tuesdays 1:00pm - 2:30pm PT.  
+**Cohort A**: Sep 22, Oct 6, 20, Nov 3, 17. Tuesdays 1:00pm - 2:30pm PT - [CohortFolder](https://drive.google.com/drive/folders/15m3ahZYQLp4bEyeWeCx6TS1da00xuI3K?usp=drive_link).  
 
-**Cohort B**: Sep 23, Oct 7, 21, Nov 4, 18. Wednesdays 10:00 - 11:30am PT.  
+**Cohort B**: Sep 23, Oct 7, 21, Nov 4, 18. Wednesdays 10:00 - 11:30am PT - [CohortFolder](https://drive.google.com/drive/folders/1XlWp4vsdhksgCKb4_cw7QbaMXAMGG06U?usp=drive_link).  
 
-**Cohort C**: Sep 23, Oct 7, 21, Nov 4, 18. Wednesdays 1:00 - 2:30pm PT.
+**Cohort C**: Sep 23, Oct 7, 21, Nov 4, 18. Wednesdays 1:00 - 2:30pm PT - [CohortFolder](https://drive.google.com/drive/folders/1yBzUXiKvgUNNj1CAYHg4FCLhdCw8wVOJ?usp=drive_link).
 
 
 
