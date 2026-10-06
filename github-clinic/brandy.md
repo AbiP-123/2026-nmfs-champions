@@ -42,7 +42,7 @@ We can include an image with the same `[]()` pattern, by adding a preceding excl
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
 
-> Here is a link to my OSU webpage: https://ceoas.oregonstate.edu/directory/brandy-cervantes
+> **Here is a link to my OSU webpage:** https://ceoas.oregonstate.edu/directory/brandy-cervantes
 
 ## NOTES
 
