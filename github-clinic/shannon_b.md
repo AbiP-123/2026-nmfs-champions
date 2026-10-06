@@ -20,6 +20,8 @@ This file is written in Markdown, which formats text on the web. To see the Mark
 
 We can make words **bold** or *italic*.
 
+How can you make a **bolded** word *italicized*? ***Answer***
+
 ### We can make headers.
 
 We can make lists – *note that lists need an empty line before list items!*
