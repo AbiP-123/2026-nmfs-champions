@@ -1,3 +1,4 @@
+[Desirable Characteristics of Data Repositories.pdf](https://github.com/user-attachments/files/33127401/Desirable.Characteristics.of.Data.Repositories.pdf)
 # GitHub practice from the browser
 
 Working on GitHub.com, we contribute changes through **commits**. You'll practice creating several commits by making small edits to a file, writing commit messages, and committing changes to see them posted nicely online to communicate our work. You'll practice with the file with your name on it; everyone has their own file to practice with. 
