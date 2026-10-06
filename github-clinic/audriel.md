@@ -22,6 +22,15 @@ We can make words **bold** or *italic*.
 
 ### We can make headers.
 
+### Practice header.
+
+**Bold and brash**
+*italic*
+
+> 1. Squidward
+2. Patrick
+3. Sandy
+
 We can make lists – *note that lists need an empty line before list items!*
 
 1. bananas
