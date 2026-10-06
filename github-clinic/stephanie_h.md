@@ -32,7 +32,6 @@ We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-
 
 > [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
 >
-> [sdmTMB page]
 
 We can make an indented quote block with the `>` symbol, as in the example above.
 
@@ -44,6 +43,9 @@ We can include an image with the same `[]()` pattern, by adding a preceding excl
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
 
+[sdmTMB] (https://sdmtmb.github.io/sdmTMB/) is the github page for the sdmTMB R package. More information can be found in the publication (https://www.jstatsoft.org/article/view/v115i02).
+
 ## NOTES
 
 It's a lot to get familiar with markdown if you haven't used it previously! 
+
