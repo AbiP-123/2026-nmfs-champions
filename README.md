@@ -59,6 +59,8 @@ We’ll add some brief information about participating teams and
 individuals. Please add any edits directly (we’ll learn how in our
 GitHub Clinic!)
 
+Shannon Barber-Meyer ([@ShannonBarber-Meyer-NOAA](https://github.com/ShannonBarber-Meyer-NOAA)), WCR PRD affiliate, focus = best coding & collaborative coding practices
+
 ## Our Team
 
 Julie Lowndes ([@jules32](https://github.com/)), Openscapes  
