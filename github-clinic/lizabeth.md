@@ -24,9 +24,7 @@ We can make words **bold** or *italic*. **bold**
 
 We can make lists – *note that lists need an empty line before list items!*
 
-1. bananas
-2. tamales
-3. cakes
+
    
 1. bread
 2. enchiladas
