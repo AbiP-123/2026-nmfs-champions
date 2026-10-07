@@ -61,3 +61,5 @@ What if I added it to the folder *mentioned above*?
 ![](../IAT_fall_RiverBed.jpg)
 > I wonder if I need to add a period after the file name?
 
+What if I drag and drop a picture in here?
+<img width="1080" height="1080" alt="IAT_fall_RiverBed" src="https://github.com/user-attachments/assets/acbb8997-d468-408f-9178-0de961bff108" />
