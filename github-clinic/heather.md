@@ -45,3 +45,14 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 ## NOTES
 
 It's a lot to get familiar with markdown if you haven't used it previously! 
+
+### Heather's adding stuff
+
+1. How about a fall picture along Wisconsin's Ice Age Trail?
+2. and some text
+
+> Maybe I can add a little something about sharks too
+
+![](C:\HeatherBee\Pics_Backgrounds\Fall\IAT_fall_RiverBed.jpg)
+or add it to the folder mentioned above
+
