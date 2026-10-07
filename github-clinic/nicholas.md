@@ -46,8 +46,8 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 
 It's a lot to get familiar with markdown if you haven't used it previously! 
 
-#New Section
+# New Section
 
-##New Subsection
+## New Subsection
 
-**Topic**- Nick made this stuff
+**Topic** - Nick made this stuff
