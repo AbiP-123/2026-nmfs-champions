@@ -31,7 +31,7 @@ We can make lists – *note that lists need an empty line before list items!*
 - Frogs
 - Turtles
 - Dogs
-  - Border collie
+  - **Border collie**
 
 We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
