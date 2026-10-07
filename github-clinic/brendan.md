@@ -1,3 +1,4 @@
+<img width="1671" height="1000" alt="knightswhosayNEAP" src="https://github.com/user-attachments/assets/dd9fd200-406c-4044-909d-6bca5750b112" />
 # GitHub practice from the browser
 
 Working on GitHub.com, we contribute changes through **commits**. You'll practice creating several commits by making small edits to a file, writing commit messages, and committing changes to see them posted nicely online to communicate our work. You'll practice with the file with your name on it; everyone has their own file to practice with. 
@@ -45,3 +46,6 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 ## NOTES
 
 It's a lot to get familiar with markdown if you haven't used it previously! 
+
+
+![Uploading knightswhosayNEAP.jpg…]()
