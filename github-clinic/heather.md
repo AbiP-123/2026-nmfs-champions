@@ -53,6 +53,11 @@ It's a lot to get familiar with markdown if you haven't used it previously!
 
 > Maybe I can add a little something about sharks too
 
+First, I'll try to add a picture. I'm using the location of my computer, but this probably won't work...
 ![](C:\HeatherBee\Pics_Backgrounds\Fall\IAT_fall_RiverBed.jpg)
-or add it to the folder mentioned above
+**Nope.**
+
+What if I added it to the folder *mentioned above*?
+![](../IAT_fall_RiverBed.jpg)
+> I wonder if I need to add a period after the file name?
 
